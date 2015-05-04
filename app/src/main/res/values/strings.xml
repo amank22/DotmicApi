@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dotmic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_product">Search Product</string>
+    <string name="search_not_done">Search Product</string>
+    <string name="title">Title</string>
+    <string name="store">Store</string>
+    <string name="price">Price</string>
+    <string name="itemimage">ItemImage</string>
+</resources>
